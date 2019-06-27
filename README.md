@@ -4,5 +4,5 @@ Projetos de aplicativos mobile nativo em que participei.
 ###### Participei por aproximadamente seis meses nesses projetos.
 
 ## Link dos projetos
-###### Aplicativo de administradores do produto [download](https://gitlab.com/iffood/ADM).
-###### Aplicativo de clientes [download](https://gitlab.com/iffood/BetaApp).
+###### Aplicativo de administradores do produto: [link](https://gitlab.com/iffood/ADM).
+###### Aplicativo de clientes: [link](https://gitlab.com/iffood/BetaApp).
